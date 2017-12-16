@@ -1,4 +1,4 @@
-package basic_programs;
+package src.basic_programs;
 import java.util.*;
 public class Palindrome {
 

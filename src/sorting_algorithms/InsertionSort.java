@@ -1,4 +1,4 @@
-package sorting_algorithms;
+package src.sorting_algorithms;
 import java.util.*;
 public class InsertionSort {
 	void insertSort(int[] a,int n) {

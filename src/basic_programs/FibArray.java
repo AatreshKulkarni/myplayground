@@ -1,4 +1,4 @@
-package basic_programs;
+package src.basic_programs;
 import java.util.Scanner;
 public class FibArray {
 
